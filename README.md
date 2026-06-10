@@ -1,9 +1,6 @@
----
-# README.md
-# SPDX-FileCopyrightText: Copyright (C) 2026 Sebastien Lenard <sebastien.lenard@gmail.com> and Contributors
-# SPDX-License-Identifier: Apache-2.0
----
-
+<!-- README.md -->
+<!-- SPDX-FileCopyrightText: Copyright (C) 2026 Sebastien Lenard <sebastien.lenard@gmail.com> and Contributors -->
+<!-- SPDX-License-Identifier: Apache-2.0 -->
 # Guildsmith 🛠️ — A deterministic framework designed to build software automation
 
 <img src="assets/images/guildsmith_logo_64.png" alt="Guildsmith deterministic framework designed to build software automation logo" align="left" width="64" height="64" style="margin-right: 15px; margin-bottom: 10px;"> A deterministic, zero-cost framework designed to build custom software automation using isolated, standard web-based AI interfaces (like gemini.google.com). 
