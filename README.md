@@ -39,7 +39,7 @@ The project files follow a strict layout to separate historical decisions from o
 
 ## 🚀 How to Get Started
 
-1. **Review the Framework Blueprint:** Read the strict organizational rules and multi-LLM setup protocol in [`docs/designs/0001-system-design-v0.1.md`](https://www.google.com/search?q=docs/designs/0001-system-design-v0.1.md).
+1. **Review the Framework Blueprint:** Read the strict organizational rules and multi-LLM setup protocol in [`docs/designs/0001-system-design-v0.1.md`](docs/designs/0001-system-design-v0.1.md).
 2. **Deploy the Team:** Open four separate browser tabs on your computer. Use the dedicated system prompts provided inside the blueprint to spin up your individual virtual team:
 * **Tab 1:** The Business Analyst (Processes your raw operations layout)
 * **Tab 2:** The Software Architect (Balances your security vs. efficiency weights)
@@ -47,4 +47,4 @@ The project files follow a strict layout to separate historical decisions from o
 * **Tab 4:** The Tester & QA (Attempts to break the code before deployment)
 
 
-3. **Audit the Origin:** To understand the specific structural decisions and why the protocol was engineered this way, read the origin log in [`docs/history/0001-genesis-transcript.md`](https://www.google.com/search?q=docs/history/0001-genesis-transcript.md).
+3. **Audit the Origin:** To understand the specific structural decisions and why the protocol was engineered this way, read the origin log in [`docs/history/0001-genesis-transcript.md`](docs/history/0001-genesis-transcript.md).
