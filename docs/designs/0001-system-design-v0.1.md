@@ -1,12 +1,11 @@
 ---
-# docs/designs/0001-system-design-v0.1.md
-# SPDX-FileCopyrightText: Copyright (C) 2026 Sebastien Lenard <sebastien.lenard@gmail.com> and Contributors
-# SPDX-License-Identifier: Apache-2.0
 status: Active
 classification: Architectural design
 date: 2026-06-09
 ---
-
+<!-- docs/designs/0001-system-design-v0.1.md -->
+<!-- SPDX-FileCopyrightText: Copyright (C) 2026 Sebastien Lenard <sebastien.lenard@gmail.com> and Contributors -->
+<!-- SPDX-License-Identifier: Apache-2.0 -->
 # 0001: System design v0.1
 
 **Blueprint: Federated Multi-LLM Software Development Protocol**  

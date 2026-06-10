@@ -1,13 +1,11 @@
 ---
-metadata: &hidden
-  status: Finalized Baseline
-  classification: Immutable Historical Context
-  date: 2026-06-09
-  FileLocation: docs/history/0001-genesis-transcript.md
-  SPDX-FileCopyrightText: Copyright (C) 2026 Sebastien Lenard <sebastien.lenard@gmail.com> and Contributors
-  SPDX-License-Identifier: Apache-2.0
+status: Finalized Baseline
+classification: Immutable Historical Context
+date: 2026-06-09
 ---
-
+<!-- docs/history/0001-genesis-transcript.md -->
+<!-- SPDX-FileCopyrightText: Copyright (C) 2026 Sebastien Lenard <sebastien.lenard@gmail.com> and Contributors -->
+<!-- SPDX-License-Identifier: Apache-2.0 -->
 
 # 0001: Genesis transcript.
 
